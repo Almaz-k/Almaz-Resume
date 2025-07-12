@@ -4,8 +4,8 @@
 
 Hi! I’m Almaz (Sam), an environmental scientist with experience in research, data analysis, and full-stack development. I specialize in solving environmental challenges through data-driven insight, interactive dashboards, and GIS techniques. I’m also passionate about building user-friendly web applications that support sustainability and public understanding.
 
-🚀 View My Resume 👉 [Download PDF](./Almaz-Kidanemariam-Resume.pdf)  
-🌐 Or View Online 👉 [GitHub Pages Resume](https://almaz-k.github.io/resume)
+🚀 View My Resume 👉 [Download PDF](./Almaz-Resume.pdf)  
+🌐 Or View Online 👉 [(https://github.com/Almaz-k/Almaz-Resume/blob/main/Almaz%20Kidanemariam%20Resume.pdf)
 
 ---
 
